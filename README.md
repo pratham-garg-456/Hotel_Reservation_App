@@ -1,10 +1,23 @@
-# Hotel_Reservation_App
+# Hotel Reservation App
+
+A Java-based application for managing hotel room reservations. This project provides features for booking rooms, managing customer details, checking availability, and handling reservations. The app is designed for learning and demonstration purposes and can be extended to fit commercial use cases.
+
+---
+
+## Features
+
+- **Room Booking:** Reserve rooms for customers, specifying check-in and check-out dates.
+- **Customer Management:** Add, update, and remove customer details.
+- **Room Management:** Add new rooms, update room details, and view room availability.
+- **Reservation Management:** View, update, and cancel reservations.
+- **Search & Availability:** Check available rooms for given dates.
+- **Simple UI:** (If applicable) Contains a basic user interface for interacting with the system.
+- **Data Persistence:** (If implemented) Store data in memory, files, or a database.
+
+---
 
 <img width="958" alt="Screenshot 2024-01-22 193125" src="https://github.com/pratham-garg-456/Hotel_Reservation_App/assets/81003075/77eeff8f-22f4-4866-9dac-d7d2a97ccd86">
 
-
-### Introduction
-Welcome to the Hotel Reservation System, a robust application designed to revolutionize the reservation and billing processes at Hotel Mariott in XYZ city. This system, developed as a computer-based solution, offers several distinctive features and advantages over the traditional manual system.
 
 ### Specialties
 
